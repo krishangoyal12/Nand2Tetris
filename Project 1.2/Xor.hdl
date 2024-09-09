@@ -16,5 +16,5 @@ CHIP Xor {
     And(a=na, b=b, out=c);
     And(a=a, b=nb, out=d);
     Or(a=c, b=d, out=out);
-    //// Replace this comment with your code.
+
 }
